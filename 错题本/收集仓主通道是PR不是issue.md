@@ -4,7 +4,7 @@
 > 去上下文化：**禁止**出现本仓窗号、场景名、文件路径、内部编号。
 
 ```yaml
-status: pending
+status: committed
 date: 2026-08-17
 name: "收集仓主通道是PR不是issue（开工「准」不等于「上传」）"
 category: "Skill流程"
